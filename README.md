@@ -1,4 +1,4 @@
-# Awesome Projects
+# Awesome
 
 ## Table of Contents
 
