@@ -24,7 +24,7 @@
 - [Wave Terminal](https://www.waveterm.dev) - Upgrade Your Command Line
 - [Termius](https://termius.com) - Modern SSH Client
 - [Alacritty](https://alacritty.org) - A cross-platform, OpenGL terminal emulator
-- [Ghostty](https://ghostty.org) - Fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
+- [Ghostty](https://ghostty.org) - A fast, feature-rich, and cross-platform terminal emulator
 - [Hyper](https://hyper.is) - An Electron-based terminal
 
 ## Editor
