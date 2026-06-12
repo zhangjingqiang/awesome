@@ -20,9 +20,12 @@
 ## Terminal
 
 - [Warp](https://www.warp.dev) - The intelligent terminal
+- [Tabby](https://tabby.sh) - A terminal for the modern age
 - [Wave Terminal](https://www.waveterm.dev) - Upgrade Your Command Line
 - [Termius](https://termius.com) - Modern SSH Client
-- [Terminal Trove](https://terminaltrove.com) - The $HOME of all things in the terminal
+- [Alacritty](https://alacritty.org) - A cross-platform, OpenGL terminal emulator
+- [Ghostty](https://ghostty.org) - Fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
+- [Hyper](https://hyper.is) - An Electron-based terminal
 
 ## Editor
 
