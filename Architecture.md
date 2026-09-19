@@ -12,3 +12,7 @@
 - [TechOps Examples](https://www.techopsexamples.com)
 - [DevOpsCube](https://devopscube.com)
 - [Level Up Coding](https://blog.levelupcoding.com)
+
+## Microservices
+
+- [Microservices Architecture](https://microservices.io)
