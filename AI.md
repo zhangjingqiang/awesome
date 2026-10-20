@@ -1,5 +1,6 @@
 # AI
 
-## Cloud
+## Guide
 
-- [RunPod](https://www.runpod.io) - The Cloud Built for AI
+- [Prompt Engineering Guide](https://www.promptingguide.ai)
+- [Harness Engineering](https://harness-engineering.ai)
