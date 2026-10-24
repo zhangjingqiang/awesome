@@ -16,13 +16,15 @@
 ## IDE
 
 - [Lens](https://k8slens.dev) - The Kubernetes IDE
+- [Freelens](https://freelensapp.github.io) - Free IDE for Kubernetes
+- [Radar](https://radarhq.io) - The missing open-source Kubernetes UI
 
 ## Virtual
 
 - [vCluster](https://www.vcluster.com) - Virtual Kubernetes and Multi-Tenancy
 - [vNode](https://www.vnode.com) - Secure Node-Level Isolation for Kubernetes Multi-Tenancy
 
-## Development Environment
+## Development
 
 - [DevPod](https://devpod.sh) - Open Source Dev-Environments-As-Code
 - [DevSpace](https://www.devspace.sh) - The Fastest Developer Tool for Kubernetes
