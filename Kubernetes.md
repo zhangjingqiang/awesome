@@ -1,5 +1,9 @@
 # Kubernetes
 
+## Ecosystem
+
+- [CNCF Landscape](https://landscape.cncf.io)
+
 ## Article
 
 - [Istio By Example](https://istiobyexample.dev)
@@ -12,6 +16,22 @@
 ## Interactive Environment
 
 - [Killercoda](https://killercoda.com)
+
+## Local Environment
+
+- [Docker Desktop](https://www.docker.com/products/docker-desktop)
+- [Rancher Desktop](https://rancherdesktop.io)
+- [kind](https://kind.sigs.k8s.io)
+- [minikube](https://minikube.sigs.k8s.io)
+- [Kiri](https://runkiri.com)
+- [Colima](https://colima.run)
+- [OrbStack](https://orbstack.dev)
+- [Podman](https://podman.io)
+
+## Configuration Management
+
+- [Helm](https://helm.sh)
+- [Kustomize](https://kustomize.io)
 
 ## IDE
 
